@@ -8,7 +8,7 @@ canvas.width = window.innerWidth;
 
 const images = {};
 images.player = new Image();
-images.player.src = 'https://i.ibb.co/Ybk7y06/character.png';
+images.player.src = 'img/Cuphead.png';
 const characterActions = ['up', 'top right', 'right', 'down right', 'down', 'jump'];
 const characters = [];
 
