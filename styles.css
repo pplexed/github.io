@@ -9,6 +9,6 @@ canvas {
     position: absolute;
     width: 300px;
     height: 200px;
-    background: url('../img/Brick_04.png');
+    background: url('img/Brick_04.png');
 
 }
